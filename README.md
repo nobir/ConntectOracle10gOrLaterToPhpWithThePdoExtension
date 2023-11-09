@@ -7,7 +7,7 @@
 # Installation
 
 - Install all the software mentioned in the **#Requirements** section.
-- Copy and paste the `oracle` folder to the `C:\` drive.
+- Copy and paste the `oracle` (which I have provided in this repository) folder to the `C:\` drive.
 - Set the environment variable `C:\oracle\instantclient_10_2\`
 - Now go to `C:\xampp\php\php.ini` and enable `extension=pdo_oci` by removing `;`.
 
